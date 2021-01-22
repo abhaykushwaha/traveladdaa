@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989301061711",
+    "firebase_url": "https://traveladda-79289.firebaseio.com",
+    "project_id": "traveladda-79289",
+    "storage_bucket": "traveladda-79289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989301061711:android:d6edfaae88cc6b8a98d23a",
+        "android_client_info": {
+          "package_name": "com.traveladda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989301061711-jttf5i4hm3tbqd3a71e5oq5dev155vb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.traveladda",
+            "certificate_hash": "7a63e8b63321acb6292e42036c2656d0316f5560"
+          }
+        },
+        {
+          "client_id": "989301061711-db6gkl6f08knjgm827lmac5hiu9f6g01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADf_MUsjDO7VBcIN0G8UT4Av_Z0UBA6QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989301061711-db6gkl6f08knjgm827lmac5hiu9f6g01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
